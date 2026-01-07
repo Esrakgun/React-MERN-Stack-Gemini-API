@@ -80,12 +80,6 @@ ile birlikte **daha kontrollü ve anlamlı bir AI üretim akışına** dönüşt
 
 ---
 
-## 🖼️ Ekran Görüntüleri:
-
-> 📌 *Buraya uygulamaya ait ekran görüntülerini ekleyebilirsiniz.*
-
----
-
 ## 📬 İletişim:
 
 Proje hakkında sorularınız varsa, lütfen benimle iletişime geçin..
@@ -112,3 +106,39 @@ Her türlü geri bildirim, öneri veya iş birliği için benimle iletişime ge�
 ---
 
 ## 🖼️Görseller-Hikaye görünümü:
+Fotograf:
+
+![a](https://github.com/user-attachments/assets/483914d5-5334-49f1-b9a9-ff562531643b)
+![b](https://github.com/user-attachments/assets/769e7258-c1c7-4f53-863a-128a4660280b)
+![c](https://github.com/user-attachments/assets/3b4d6798-8cfe-49c1-a979-e0a7b7a5e40f)
+![d](https://github.com/user-attachments/assets/d889f261-5a7e-4727-8622-bcc457a75a2c)
+
+
+
+https://github.com/user-attachments/assets/b6318341-7d05-4d31-a11b-64694fd864bf
+
+https://github.com/user-attachments/assets/6218a4b9-6ae7-4d62-b1ff-024ae95e9ecc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
