@@ -113,11 +113,10 @@ Fotograf:
 ![c](https://github.com/user-attachments/assets/3b4d6798-8cfe-49c1-a979-e0a7b7a5e40f)
 ![d](https://github.com/user-attachments/assets/d889f261-5a7e-4727-8622-bcc457a75a2c)
 
----
 
-Videos:
 
 https://github.com/user-attachments/assets/b6318341-7d05-4d31-a11b-64694fd864bf
+
 https://github.com/user-attachments/assets/6218a4b9-6ae7-4d62-b1ff-024ae95e9ecc
 
 
