@@ -80,12 +80,6 @@ ile birlikte **daha kontrollü ve anlamlı bir AI üretim akışına** dönüşt
 
 ---
 
-## 🖼️ Ekran Görüntüleri:
-
-> 📌 *Buraya uygulamaya ait ekran görüntülerini ekleyebilirsiniz.*
-
----
-
 ## 📬 İletişim:
 
 Proje hakkında sorularınız varsa, lütfen benimle iletişime geçin..
